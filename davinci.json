@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1599356215,
-      "filename": "project-404-3.0-20200906-012422-unofficial-davinci.zip",
-      "id": "274319456c6a763fedfa97985ee6a22f",
+      "datetime": 1599401818,
+      "filename": "project-404-3.0-20200906-095541-unofficial-davinci.zip",
+      "id": "ab5da104f8b655e385975d1839440d89",
       "romtype": "user",
-      "size": 1358130876,
-      "url": "http://192.168.0.30/project-404-3.0-20200906-012422-unofficial-davinci.zip",
+      "size": 1358097444,
+      "url": "https://sourceforge.net/projects/p404-builds-by-noonlord/files/project-404-3.0-20200906-095541-unofficial-davinci.zip/download",
       "version": "ten",
       "device" : "davinci"
     }
